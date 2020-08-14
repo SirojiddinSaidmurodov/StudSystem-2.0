@@ -1,4 +1,4 @@
-package edu.easydev;
+package edu.easydev.studsystem2;
 
 import java.io.IOException;
 import javafx.fxml.FXML;

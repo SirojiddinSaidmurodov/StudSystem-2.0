@@ -1,4 +1,4 @@
-package edu.easydev;
+package edu.easydev.studsystem2;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
