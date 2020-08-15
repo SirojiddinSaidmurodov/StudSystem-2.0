@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="StudSystem(JDBC,Maven)">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudSystem_JDBC_Maven_</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="edu.easydev.studsystem2.App" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="StudSystem_JDBC_Maven_.jar">
+        <element id="module-output" name="StudSystem(JDBC,Maven)" />
+      </element>
+    </root>
+  </artifact>
+</component>
